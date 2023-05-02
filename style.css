@@ -1,0 +1,22 @@
+
+canvas {
+  /* display: block; */
+  margin: 0;
+  padding: 0;
+  
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  
+}
+
+#sketch-holder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+}
